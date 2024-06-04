@@ -1,0 +1,12 @@
+
+
+body {
+    background-color: aqua;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
